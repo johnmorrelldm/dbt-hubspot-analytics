@@ -1,0 +1,7 @@
+packages:
+  - package: fivetran/hubspot_source
+    version: 0.4.3
+
+packages:
+  - package: fivetran/hubspot
+    version: 0.4.1
